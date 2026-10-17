@@ -1,2 +1,3 @@
 This is Git Activity 3.
 This line was added in the feature branch.
+This line was added directly on GitHub.
